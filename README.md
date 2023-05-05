@@ -1,4 +1,5 @@
 Hi there! 👋
+
 I'm Tamo, a Front-end Developer based in Tbilisi. I have experience in HTML, CSS, and JavaScript, and I'm always learning new things.
 
 About me
