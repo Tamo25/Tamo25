@@ -2,16 +2,16 @@ Hi there! 👋
 
 I'm Tamo, a Front-end Developer based in Tbilisi. I have experience in HTML, CSS, and JavaScript, and I'm always learning new things.
 
-About me
-🌱 I'm currently learning JavaScript.
-💬 Ask me about anything you're interested in.
-📫 How to reach me: gogatishvilit25@gmail.com
-Projects
-Here are some of the projects I've worked on recently:
+About me  
+🌱 I'm currently learning JavaScript. 
+💬 Ask me about anything you're interested in.  
+📫 How to reach me: gogatishvilit25@gmail.com 
+Projects  
+Here are some of the projects I've worked on recently:  
 
-Tip Calculator: A simple yet functional tool that helps calculate the tip and total bill amount, and it even allows you to split the bill between multiple people.
-Advice Generator App: An app that generates random advice to help you through tough times.
-Photosnap Multi-Page Website: My first collaboration project, where I worked on a multi-page website for a fictional photography company.
+Tip Calculator: A simple yet functional tool that helps calculate the tip and total bill amount, and it even allows you to split the bill between multiple people.  
+Advice Generator App: An app that generates random advice to help you through tough times.  
+Photosnap Multi-Page Website: My first collaboration project, where I worked on a multi-page website for a fictional photography company. 
 
 Skills
 Here are some of the skills and technologies I'm proficient in:
