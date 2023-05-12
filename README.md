@@ -17,7 +17,7 @@ Skills
 Here are some of the skills and technologies I'm proficient in:
 
 HTML  
-CSS 
+CSS   
 JavaScript  
 Git   
 Bootstrap
